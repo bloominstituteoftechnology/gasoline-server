@@ -1,2 +1,2 @@
-Username: Lambda
-Password: School
+Username: lambda
+Password: school
