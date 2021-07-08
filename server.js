@@ -30,7 +30,7 @@ app.post("/api/login", (req, res) => {
   } else {
     res
       .status(403)
-      .json({ error: "Username or Password incorrect. Please see Readme" });
+      .json({ error: "Username or Password incorrect. Please see README." });
   }
 });
 
